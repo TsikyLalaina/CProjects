@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1699355655 source:c:\users\lalaina\cproject\methodes\stringmeth\main.c
+	"StringMeth.h"
+
+1699355617 c:\users\lalaina\cproject\methodes\stringmeth\stringmeth.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1698313900 source:c:\users\lalaina\cproject\methodes\arraymeth\main.c
+	"ArrayMeth.h"
+
+1698313823 c:\users\lalaina\cproject\methodes\arraymeth\arraymeth.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
